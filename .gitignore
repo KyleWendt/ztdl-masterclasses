@@ -1,3 +1,7 @@
+wikidata/
+solutions_do_not_open/sports_images*
+
+*/logs
 *.DS_Store
 
 # Byte-compiled / optimized / DLL files
